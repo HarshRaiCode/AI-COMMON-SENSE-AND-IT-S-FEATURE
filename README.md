@@ -1,1 +1,1 @@
-# AI-COMMON-SENSE-AND-IT-S-FEATURE
+Built an AI COMMON SENSE AND IT'S FEATURE, in semester 4 kind of chatbot which can be used as text summarizer through speech recognition. Also, it contains “Audio to Text” function, and some graphical representation by using python.
